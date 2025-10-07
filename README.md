@@ -9,7 +9,8 @@ Statistical Testing:
 - Group comparison — Mann–Whitney U test
 - Segmentation — Kruskal–Wallis test by device and region
 
-### Visualization: Built Tableau dashboard showing metrics, distributions, and group comparison.
+### Visualization: 
+Built Tableau dashboard showing metrics, distributions, and group comparison.
 
 ### Results
 Group A (white background): 57.4 sec
