@@ -11,6 +11,7 @@ Statistical Testing:
 
 ### Visualization: 
 Built Tableau dashboard showing metrics, distributions, and group comparison.
+https://public.tableau.com/app/profile/halyna.danchuk/viz/ABTestingAnalysis_17598424481440/Dashboard1
 
 ### Results
 Group A (white background): 57.4 sec
